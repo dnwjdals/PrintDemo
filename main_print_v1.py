@@ -1,5 +1,5 @@
 # 변수 선언
-name = "WooJeongMin"
+name = "우정민으로 수정"
 age = 22
 score = 95.5
 
